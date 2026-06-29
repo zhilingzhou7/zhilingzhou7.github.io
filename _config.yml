@@ -1,0 +1,14 @@
+title: Zhiling Zhou
+description: PhD Student in Statistics & Data Science, Yale University
+url: "https://zhilingzhou7.github.io"
+baseurl: ""
+
+author:
+  name: Zhiling Zhou
+  email: zhiling.zhou@yale.edu
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
