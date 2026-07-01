@@ -37,17 +37,17 @@ title: Home
 
 <section class="section" id="publications">
   <div class="section-heading">
-    <h2>Publications</h2>
+    <h2>Publications and Preprints</h2>
   </div>
 
-  <article class="publication featured">
+  <article class="publication">
     <div class="pub-year">2026</div>
     <div class="pub-body">
       <h3>How Transformers Represent Hierarchies: A Local-to-Global Mechanism</h3>
       <p class="authors"><strong>Zhiling Zhou</strong>, Tianhao Wang, Zhuoran Yang</p>
       <p class="venue">ICML 2026</p>
       <div class="pub-links">
-        <a href="papers/ICML_camera_ready_cfg.pdf">PDF</a>
+        <a href="papers/ICML_camera_ready_cfg.pdf">Paper</a>
         <a href="https://github.com/zhilingzhou7/transformer-cfg-mechinterp">Code</a>
       </div>
     </div>
@@ -57,8 +57,11 @@ title: Home
     <div class="pub-year">2026</div>
     <div class="pub-body">
       <h3>Demystifying Classifier-Free Guidance for Auto-Regressive Image Generation</h3>
-      <p class="authors"><strong>Zhiling Zhou</strong>, Jiachun Pan, Fengzhuo Zhang, Dirk Bergemann, Zhuoran Yang</p>
+      <p class="authors"><strong>Zhiling Zhou</strong><sup>*</sup>, Jiachun Pan<sup>*</sup>, Fengzhuo Zhang<sup>*</sup>, Dirk Bergemann, Zhuoran Yang</p>
       <p class="venue">Mechanistic Interpretability Workshop at ICML 2026</p>
+      <div class="pub-links">
+        <a href="https://openreview.net/pdf?id=9foLw2vZa0">Paper</a>
+      </div>
     </div>
   </article>
 
@@ -69,7 +72,7 @@ title: Home
       <p class="authors"><strong>Zhiling Zhou</strong>, Zhuanghua Liu, Chengchang Liu, Luo Luo</p>
       <p class="venue">Journal of Optimization Theory and Applications</p>
       <div class="pub-links">
-        <a href="https://arxiv.org/abs/2407.03195">arXiv</a>
+        <a href="https://link.springer.com/article/10.1007/s10957-026-02990-8">Paper</a>
       </div>
     </div>
   </article>
@@ -80,6 +83,9 @@ title: Home
       <h3>DiffSim: Aligning Diffusion Model and Molecular Dynamics Simulation for Blind Docking</h3>
       <p class="authors">Yanlin Fei, Yurui Li, <strong>Zhiling Zhou</strong>, Haohan Wang</p>
       <p class="venue">IEEE BIBM 2024</p>
+      <div class="pub-links">
+        <a href="https://ieeexplore.ieee.org/document/10822415">Paper</a>
+      </div>
     </div>
   </article>
 
@@ -87,13 +93,15 @@ title: Home
     <div class="pub-year">Preprint</div>
     <div class="pub-body">
       <h3>Robust Network Learning via Inverse Scale Variational Sparsification</h3>
-      <p class="authors"><strong>Zhiling Zhou</strong>, Zirui Liu, Chengming Xu, Yanwei Fu, Xinwei Sun</p>
+      <p class="authors"><strong>Zhiling Zhou</strong><sup>*</sup>, Zirui Liu<sup>*</sup>, Chengming Xu, Yanwei Fu, Xinwei Sun</p>
       <p class="venue">Preprint</p>
       <div class="pub-links">
-        <a href="https://arxiv.org/abs/2409.18419">arXiv</a>
+        <a href="https://arxiv.org/pdf/2409.18419">Paper</a>
       </div>
     </div>
   </article>
+
+  <p class="publication-note"><sup>*</sup> Equal contribution.</p>
 </section>
 
 <section class="section contact-section" id="contact">
