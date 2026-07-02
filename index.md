@@ -98,8 +98,8 @@ title: Home
     <h2>Contact</h2>
   </div>
   <p>
-    Email: <a href="mailto:zhiling.zhou@yale.edu">zhiling.zhou@yale.edu</a> ·
-    GitHub: <a href="https://github.com/zhilingzhou7">zhilingzhou7</a> ·
-    <a href="cv.pdf">CV</a>
+    <a href="mailto:zhiling.zhou@yale.edu">Email</a> ·
+    <a href="https://github.com/zhilingzhou7">GitHub</a> ·
+    <a href="cv_version_icml_v1.pdf">CV</a>
   </p>
 </section>
