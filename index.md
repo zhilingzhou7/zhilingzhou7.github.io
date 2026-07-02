@@ -55,7 +55,7 @@ title: Home
   </article>
 
   <article class="publication">
-    <div class="pub-year">2024</div>
+    <div class="pub-year">2026</div>
     <div class="pub-body">
       <h3>Incremental Gauss-Newton Methods with Superlinear Convergence Rates</h3>
       <p class="authors"><strong>Zhiling Zhou</strong>, Zhuanghua Liu, Chengchang Liu, Luo Luo</p>
