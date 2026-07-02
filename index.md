@@ -19,19 +19,8 @@ title: Home
     </p>
   </div>
 
-  <aside class="profile-card" aria-label="Profile summary">
-    <div class="avatar" aria-hidden="true">ZZ</div>
-    <h2>Research Interests</h2>
-    <ul class="tag-list">
-      <li>Optimization</li>
-      <li>Machine learning theory</li>
-      <li>Mechanistic interpretation</li>
-    </ul>
-    <div class="contact-list">
-      <a href="mailto:zhiling.zhou@yale.edu">Email</a>
-      <a href="https://github.com/zhilingzhou7">GitHub</a>
-      <a href="cv.pdf">CV</a>
-    </div>
+  <aside class="profile-card" aria-label="Profile photo">
+    <img class="profile-photo" src="profile.png" alt="Zhiling Zhou">
   </aside>
 </section>
 
@@ -60,7 +49,7 @@ title: Home
       <p class="authors"><strong>Zhiling Zhou</strong><sup>*</sup>, Jiachun Pan<sup>*</sup>, Fengzhuo Zhang<sup>*</sup>, Dirk Bergemann, Zhuoran Yang</p>
       <p class="venue">Mechanistic Interpretability Workshop at ICML 2026</p>
       <div class="pub-links">
-        <a href="https://openreview.net/pdf?id=9foLw2vZa0">Paper</a>
+        <a href="papers/Demystifying_CFG.pdf">Paper</a>
       </div>
     </div>
   </article>
