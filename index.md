@@ -100,6 +100,6 @@ title: Home
   <p>
     <a href="mailto:zhiling.zhou@yale.edu">Email</a> ·
     <a href="https://github.com/zhilingzhou7">GitHub</a> ·
-    <a href="cv_version_icml_v2.pdf">CV</a>
+    <a href="cv_260914.pdf">CV</a>
   </p>
 </section>
