@@ -32,12 +32,13 @@ title: Home
   <article class="publication">
     <div class="pub-year">2026</div>
     <div class="pub-body">
-      <h3>How Transformers Represent Hierarchies: A Local-to-Global Mechanism</h3>
-      <p class="authors"><strong>Zhiling Zhou</strong>, Tianhao Wang, Zhuoran Yang</p>
-      <p class="venue">ICML 2026</p>
+      <h3>Demystifying Classifier-Free Guidance for Auto-Regressive Image Generation</h3>
+      <p class="authors"><strong>Zhiling Zhou</strong><sup>*</sup>, Jiachun Pan<sup>*</sup>, Fengzhuo Zhang<sup>*</sup>, Dirk Bergemann, Zhuoran Yang</p>
+      <p class="venue">NeurIPS 2026<br>
+        Scientific Understanding of Foundation Models Workshop at COLM 2026 (Oral)<br>
+        Mechanistic Interpretability Workshop at ICML 2026</p>
       <div class="pub-links">
-        <a href="papers/ICML_camera_ready_cfg.pdf">Paper</a>
-        <a href="https://github.com/zhilingzhou7/transformer-cfg-mechinterp">Code</a>
+        <a href="papers/Classifier_Free_Guidance_Neurips.pdf">Paper</a>
       </div>
     </div>
   </article>
@@ -45,11 +46,12 @@ title: Home
   <article class="publication">
     <div class="pub-year">2026</div>
     <div class="pub-body">
-      <h3>Demystifying Classifier-Free Guidance for Auto-Regressive Image Generation</h3>
-      <p class="authors"><strong>Zhiling Zhou</strong><sup>*</sup>, Jiachun Pan<sup>*</sup>, Fengzhuo Zhang<sup>*</sup>, Dirk Bergemann, Zhuoran Yang</p>
-      <p class="venue">Mechanistic Interpretability Workshop at ICML 2026</p>
+      <h3>How Transformers Represent Hierarchies: A Local-to-Global Mechanism</h3>
+      <p class="authors"><strong>Zhiling Zhou</strong>, Tianhao Wang, Zhuoran Yang</p>
+      <p class="venue">ICML 2026</p>
       <div class="pub-links">
-        <a href="papers/Demystifying_CFG.pdf">Paper</a>
+        <a href="papers/ICML_camera_ready_cfg.pdf">Paper</a>
+        <a href="https://github.com/zhilingzhou7/transformer-cfg-mechinterp">Code</a>
       </div>
     </div>
   </article>
